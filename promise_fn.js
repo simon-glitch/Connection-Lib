@@ -3,7 +3,7 @@ Author:
     Simon Glitch
 
 About:
-    See `../docs/promise_fn.md` for an explanation on what the idea behind this script is.
+    See `README.md` for an explanation on what the idea behind this script is.
 */
 
 /**
